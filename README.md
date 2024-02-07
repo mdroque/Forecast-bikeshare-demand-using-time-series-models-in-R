@@ -4,7 +4,7 @@ This repository contains the code and documentation for a project on forecasting
 
 ## About
 
-This project aims to analyze historical bikeshare rental data and develop time series models to forecast future demand. The dataset includes daily counts of bike rentals along with corresponding weather and seasonal information. Various time series analysis techniques are applied to understand patterns, trends, and seasonality in the data, followed by the development of ARIMA models for forecasting.
+This project aims to analyze bikeshare rental data and develop time series models to forecast future demand.
 
 ## Repository Structure
 
@@ -37,7 +37,7 @@ install.packages(c("timetk", "forecast", "plotly", "dplyr", "lubridate"))
 
 ## Contributors
 
-Michael Roque: Project Lead and Developer
+Michael Roque
 
 ## License
 
