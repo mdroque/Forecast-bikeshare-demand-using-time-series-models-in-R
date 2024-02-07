@@ -20,7 +20,6 @@ This dataset contains the daily count of rental bike transactions between years 
 Fanaee-T, Hadi, and Gama, Joao. Event labeling combining ensemble detectors and background knowledge, Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg
 
 # Task One: Load and explore the data
-
 ## Load data and install packages
 
 ```{r}
@@ -164,7 +163,9 @@ forecast_values <- forecast(arima_model, h = 12)  # Forecasting 12 months ahead
 # Plot the forecast
 plot(forecast_values)
 
-
 ```
 
 # Task Six: Findings and Conclusions
+
+Trend and Seasonality: The exploratory data analysis revealed a clear increasing trend in bike rental demand over the observed period. Additionally, seasonality was observed, with peaks in demand occurring during certain months of the year, due to seasonal variations such as weather conditions.
+
