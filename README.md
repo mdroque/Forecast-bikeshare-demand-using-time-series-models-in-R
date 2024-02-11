@@ -18,7 +18,7 @@ This project aims to analyze bikeshare rental data and develop time series model
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/forecast-bikeshare-demand-time-series-R.git
+git clone https://github.com/mdroque/forecast-bikeshare-demand-time-series-R.git
 ```
 
 ## Dependencies
